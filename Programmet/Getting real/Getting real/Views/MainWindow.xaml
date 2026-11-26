@@ -56,6 +56,8 @@
         <Border Grid.Row="0" Background="White" BorderBrush="#E5E7EB" BorderThickness="0,0,0,1" Padding="24,0">
             <Grid>
                 <StackPanel Orientation="Horizontal" VerticalAlignment="Center">
+                    <Image Source="/Images/LOGO.JPG" Width="100" Height="60" Stretch="Uniform" VerticalAlignment="center"/>
+
                     <!-- Udskift evt. Source med stien til dit Vekto-logo -->
                     <!--<Image Source=""/>-->
                     <TextBlock Text="BICYCLE WORKSHOP" FontSize="11" FontWeight="Bold" Foreground="#6B7280" VerticalAlignment="Center" Margin="10,4,0,0"/>
