@@ -12,3 +12,20 @@ C:\Git\Getting Real\Programmet\Getting real\Getting real\obj\Debug\Getting_real.
 C:\Git\Getting Real\Programmet\Getting real\Getting real\obj\Debug\Getting_real.csproj.CoreCompileInputs.cache
 C:\Git\Getting Real\Programmet\Getting real\Getting real\obj\Debug\Getting real.exe
 C:\Git\Getting Real\Programmet\Getting real\Getting real\obj\Debug\Getting real.pdb
+C:\Users\Kswag\Documents\GitHub\Getting-Real\Programmet\Getting real\Getting real\bin\Debug\Getting real.exe.config
+C:\Users\Kswag\Documents\GitHub\Getting-Real\Programmet\Getting real\Getting real\bin\Debug\Getting real.exe
+C:\Users\Kswag\Documents\GitHub\Getting-Real\Programmet\Getting real\Getting real\bin\Debug\Getting real.pdb
+C:\Users\Kswag\Documents\GitHub\Getting-Real\Programmet\Getting real\Getting real\obj\Debug\Getting_real.csproj.AssemblyReference.cache
+C:\Users\Kswag\Documents\GitHub\Getting-Real\Programmet\Getting real\Getting real\obj\Debug\MainWindow.baml
+C:\Users\Kswag\Documents\GitHub\Getting-Real\Programmet\Getting real\Getting real\obj\Debug\CreateCostumer.g.cs
+C:\Users\Kswag\Documents\GitHub\Getting-Real\Programmet\Getting real\Getting real\obj\Debug\MainWindow.g.cs
+C:\Users\Kswag\Documents\GitHub\Getting-Real\Programmet\Getting real\Getting real\obj\Debug\App.g.cs
+C:\Users\Kswag\Documents\GitHub\Getting-Real\Programmet\Getting real\Getting real\obj\Debug\Getting real_MarkupCompile.cache
+C:\Users\Kswag\Documents\GitHub\Getting-Real\Programmet\Getting real\Getting real\obj\Debug\Getting real_MarkupCompile.lref
+C:\Users\Kswag\Documents\GitHub\Getting-Real\Programmet\Getting real\Getting real\obj\Debug\CreateCostumer.baml
+C:\Users\Kswag\Documents\GitHub\Getting-Real\Programmet\Getting real\Getting real\obj\Debug\Getting real.g.resources
+C:\Users\Kswag\Documents\GitHub\Getting-Real\Programmet\Getting real\Getting real\obj\Debug\Getting_real.Properties.Resources.resources
+C:\Users\Kswag\Documents\GitHub\Getting-Real\Programmet\Getting real\Getting real\obj\Debug\Getting_real.csproj.GenerateResource.cache
+C:\Users\Kswag\Documents\GitHub\Getting-Real\Programmet\Getting real\Getting real\obj\Debug\Getting_real.csproj.CoreCompileInputs.cache
+C:\Users\Kswag\Documents\GitHub\Getting-Real\Programmet\Getting real\Getting real\obj\Debug\Getting real.exe
+C:\Users\Kswag\Documents\GitHub\Getting-Real\Programmet\Getting real\Getting real\obj\Debug\Getting real.pdb
