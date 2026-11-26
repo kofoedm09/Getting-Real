@@ -32,3 +32,20 @@ C:\Git\Getting Real\Programmet\Getting real\Getting real\obj\Debug\Views\CreateC
 C:\Git\Getting Real\Programmet\Getting real\Getting real\obj\Debug\Views\MainWindow.g.cs
 C:\Git\Getting Real\Programmet\Getting real\Getting real\obj\Debug\Getting real_MarkupCompile.lref
 C:\Git\Getting Real\Programmet\Getting real\Getting real\obj\Debug\Views\CreateCostumer.baml
+C:\Users\Nivo\Desktop\Datamatiker\1.semster\Projekt Vekto 2 eksamen\Getting-Real kode til system\Programmet\Getting-Real\Programmet\Getting real\Getting real\bin\Debug\Getting real.exe.config
+C:\Users\Nivo\Desktop\Datamatiker\1.semster\Projekt Vekto 2 eksamen\Getting-Real kode til system\Programmet\Getting-Real\Programmet\Getting real\Getting real\bin\Debug\Getting real.exe
+C:\Users\Nivo\Desktop\Datamatiker\1.semster\Projekt Vekto 2 eksamen\Getting-Real kode til system\Programmet\Getting-Real\Programmet\Getting real\Getting real\bin\Debug\Getting real.pdb
+C:\Users\Nivo\Desktop\Datamatiker\1.semster\Projekt Vekto 2 eksamen\Getting-Real kode til system\Programmet\Getting-Real\Programmet\Getting real\Getting real\obj\Debug\Getting_real.csproj.AssemblyReference.cache
+C:\Users\Nivo\Desktop\Datamatiker\1.semster\Projekt Vekto 2 eksamen\Getting-Real kode til system\Programmet\Getting-Real\Programmet\Getting real\Getting real\obj\Debug\Views\MainWindow.baml
+C:\Users\Nivo\Desktop\Datamatiker\1.semster\Projekt Vekto 2 eksamen\Getting-Real kode til system\Programmet\Getting-Real\Programmet\Getting real\Getting real\obj\Debug\Views\CreateCostumer.g.cs
+C:\Users\Nivo\Desktop\Datamatiker\1.semster\Projekt Vekto 2 eksamen\Getting-Real kode til system\Programmet\Getting-Real\Programmet\Getting real\Getting real\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Nivo\Desktop\Datamatiker\1.semster\Projekt Vekto 2 eksamen\Getting-Real kode til system\Programmet\Getting-Real\Programmet\Getting real\Getting real\obj\Debug\App.g.cs
+C:\Users\Nivo\Desktop\Datamatiker\1.semster\Projekt Vekto 2 eksamen\Getting-Real kode til system\Programmet\Getting-Real\Programmet\Getting real\Getting real\obj\Debug\Getting real_MarkupCompile.cache
+C:\Users\Nivo\Desktop\Datamatiker\1.semster\Projekt Vekto 2 eksamen\Getting-Real kode til system\Programmet\Getting-Real\Programmet\Getting real\Getting real\obj\Debug\Getting real_MarkupCompile.lref
+C:\Users\Nivo\Desktop\Datamatiker\1.semster\Projekt Vekto 2 eksamen\Getting-Real kode til system\Programmet\Getting-Real\Programmet\Getting real\Getting real\obj\Debug\Views\CreateCostumer.baml
+C:\Users\Nivo\Desktop\Datamatiker\1.semster\Projekt Vekto 2 eksamen\Getting-Real kode til system\Programmet\Getting-Real\Programmet\Getting real\Getting real\obj\Debug\Getting real.g.resources
+C:\Users\Nivo\Desktop\Datamatiker\1.semster\Projekt Vekto 2 eksamen\Getting-Real kode til system\Programmet\Getting-Real\Programmet\Getting real\Getting real\obj\Debug\Getting_real.Properties.Resources.resources
+C:\Users\Nivo\Desktop\Datamatiker\1.semster\Projekt Vekto 2 eksamen\Getting-Real kode til system\Programmet\Getting-Real\Programmet\Getting real\Getting real\obj\Debug\Getting_real.csproj.GenerateResource.cache
+C:\Users\Nivo\Desktop\Datamatiker\1.semster\Projekt Vekto 2 eksamen\Getting-Real kode til system\Programmet\Getting-Real\Programmet\Getting real\Getting real\obj\Debug\Getting_real.csproj.CoreCompileInputs.cache
+C:\Users\Nivo\Desktop\Datamatiker\1.semster\Projekt Vekto 2 eksamen\Getting-Real kode til system\Programmet\Getting-Real\Programmet\Getting real\Getting real\obj\Debug\Getting real.exe
+C:\Users\Nivo\Desktop\Datamatiker\1.semster\Projekt Vekto 2 eksamen\Getting-Real kode til system\Programmet\Getting-Real\Programmet\Getting real\Getting real\obj\Debug\Getting real.pdb
