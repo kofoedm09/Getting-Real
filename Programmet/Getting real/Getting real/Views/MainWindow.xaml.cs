@@ -12,6 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using Getting_real.ViewModels;
 
 namespace Getting_real
 {
@@ -20,9 +21,22 @@ namespace Getting_real
     /// </summary>
     public partial class MainWindow : Window
     {
+        private MainViewModel mvm;
         public MainWindow()
         {
             InitializeComponent();
+            mvm = new MainViewModel();
+            DataContext = mvm;
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+                    
+        }
+
+        private void Button_Click_Rep(object sender, RoutedEventArgs e)
+        {
+
         }
     }
 }

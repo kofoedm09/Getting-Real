@@ -3,15 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\Kswag\\Documents\\GitHub\\Getting-Real\\Programmet\\Getting real\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EA9F2933-0328-429D-9F51-9598E5EC6D66}|Getting real\\Getting_real.csproj|c:\\users\\kswag\\documents\\github\\getting-real\\programmet\\getting real\\getting real\\createcostumer.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{EA9F2933-0328-429D-9F51-9598E5EC6D66}|Getting real\\Getting_real.csproj|solutionrelative:getting real\\createcostumer.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA9F2933-0328-429D-9F51-9598E5EC6D66}|Getting real\\Getting_real.csproj|c:\\users\\kswag\\documents\\github\\getting-real\\programmet\\getting real\\getting real\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{EA9F2933-0328-429D-9F51-9598E5EC6D66}|Getting real\\Getting_real.csproj|c:\\git\\getting real\\programmet\\getting real\\getting real\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{EA9F2933-0328-429D-9F51-9598E5EC6D66}|Getting real\\Getting_real.csproj|solutionrelative:getting real\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA9F2933-0328-429D-9F51-9598E5EC6D66}|Getting real\\Getting real.csproj|C:\\Users\\Kswag\\Documents\\GitHub\\Getting-Real\\Programmet\\Getting real\\getting real\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EA9F2933-0328-429D-9F51-9598E5EC6D66}|Getting real\\Getting real.csproj|C:\\Git\\Getting Real\\Programmet\\Getting real\\getting real\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA9F2933-0328-429D-9F51-9598E5EC6D66}|Getting real\\Getting real.csproj|solutionrelative:getting real\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,8 +26,8 @@
               "Title": "CreateCostumer.xaml",
               "DocumentMoniker": "C:\\Users\\Kswag\\Documents\\GitHub\\Getting-Real\\Programmet\\Getting real\\Getting real\\CreateCostumer.xaml",
               "RelativeDocumentMoniker": "Getting real\\CreateCostumer.xaml",
-              "ToolTip": "C:\\Users\\Kswag\\Documents\\GitHub\\Getting-Real\\Programmet\\Getting real\\Getting real\\CreateCostumer.xaml*",
-              "RelativeToolTip": "Getting real\\CreateCostumer.xaml*",
+              "ToolTip": "C:\\Users\\Kswag\\Documents\\GitHub\\Getting-Real\\Programmet\\Getting real\\Getting real\\CreateCostumer.xaml",
+              "RelativeToolTip": "Getting real\\CreateCostumer.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-11-26T11:50:50.43Z",
               "EditorCaption": ""

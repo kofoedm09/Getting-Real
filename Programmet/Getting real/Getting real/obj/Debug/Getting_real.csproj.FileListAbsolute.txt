@@ -2,8 +2,6 @@ C:\Git\Getting Real\Programmet\Getting real\Getting real\bin\Debug\Getting real.
 C:\Git\Getting Real\Programmet\Getting real\Getting real\bin\Debug\Getting real.exe
 C:\Git\Getting Real\Programmet\Getting real\Getting real\bin\Debug\Getting real.pdb
 C:\Git\Getting Real\Programmet\Getting real\Getting real\obj\Debug\Getting_real.csproj.AssemblyReference.cache
-C:\Git\Getting Real\Programmet\Getting real\Getting real\obj\Debug\MainWindow.baml
-C:\Git\Getting Real\Programmet\Getting real\Getting real\obj\Debug\MainWindow.g.cs
 C:\Git\Getting Real\Programmet\Getting real\Getting real\obj\Debug\App.g.cs
 C:\Git\Getting Real\Programmet\Getting real\Getting real\obj\Debug\Getting real_MarkupCompile.cache
 C:\Git\Getting Real\Programmet\Getting real\Getting real\obj\Debug\Getting real.g.resources
@@ -29,3 +27,8 @@ C:\Users\Kswag\Documents\GitHub\Getting-Real\Programmet\Getting real\Getting rea
 C:\Users\Kswag\Documents\GitHub\Getting-Real\Programmet\Getting real\Getting real\obj\Debug\Getting_real.csproj.CoreCompileInputs.cache
 C:\Users\Kswag\Documents\GitHub\Getting-Real\Programmet\Getting real\Getting real\obj\Debug\Getting real.exe
 C:\Users\Kswag\Documents\GitHub\Getting-Real\Programmet\Getting real\Getting real\obj\Debug\Getting real.pdb
+C:\Git\Getting Real\Programmet\Getting real\Getting real\obj\Debug\Views\MainWindow.baml
+C:\Git\Getting Real\Programmet\Getting real\Getting real\obj\Debug\Views\CreateCostumer.g.cs
+C:\Git\Getting Real\Programmet\Getting real\Getting real\obj\Debug\Views\MainWindow.g.cs
+C:\Git\Getting Real\Programmet\Getting real\Getting real\obj\Debug\Getting real_MarkupCompile.lref
+C:\Git\Getting Real\Programmet\Getting real\Getting real\obj\Debug\Views\CreateCostumer.baml
